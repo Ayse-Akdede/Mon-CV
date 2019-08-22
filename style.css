@@ -1,0 +1,61 @@
+* {
+    margin:0px;
+    padding:0px;
+}
+body {
+    min-width: 100%;
+    min-height: 100%;
+    font-family: 'Livvic', sans-serif;
+    background: linear-gradient(#fc76e567, #9198e5);
+}
+header {
+   display:flex;
+   justify-content: space-around;
+   margin-top:20px;
+   margin-bottom:20px;
+}
+
+h1 {
+    display:flex;
+    align-items:flex-start;
+    font-family: 'Fjalla One', sans-serif;
+}
+
+
+h2 {
+    font-family: 'Fjalla One', sans-serif;
+    text-transform: uppercase;
+    border-bottom: 3px solid blueviolet;
+    margin-bottom:15px;
+    text-align:center;
+}
+section{
+    margin-bottom: 60px;
+    text-align:justify;
+
+}
+
+.sec-g {
+    float:left;
+    font-weight: bold;
+    font-size:17px;
+    margin-left:430px;
+
+}
+.sec-d {
+    margin-left:650px;
+    margin-bottom:37px;
+}
+.titre {
+    font-weight: bold;
+}
+p {
+padding:2px;
+}
+#section-1-droite p{
+    margin-bottom:30px;
+}
+#section-1-gauche p{
+    margin-bottom:52px;
+}
+
